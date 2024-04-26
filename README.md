@@ -9,3 +9,5 @@ this project contains
 5. rock paper sicers
 6. guessing a number
 7. grading system
+8. inventry system
+9. reporting
